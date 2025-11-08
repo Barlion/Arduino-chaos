@@ -15,7 +15,8 @@ This repo is a growing collection of Arduino experiments, each project pushing m
 ---
 
 ## 🧩 Projects
-Blinky - 
+| 1 | Blinky | The first taste of chaos — a simple LED blink test | [View Code](https://github.com/Barlion/Arduino-chaos/tree/main/%231-Blinking-LED) |
+
 
 > 💡 *Each project includes:*
 > - `.ino` sketch  
